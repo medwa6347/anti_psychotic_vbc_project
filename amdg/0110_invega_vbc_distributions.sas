@@ -1,7 +1,7 @@
  /*----------------------------------------------------------------*\
- | STANDALONE ADHOC INVEGA VBC ANALYSIS FOR JANSSEN - CLAIMS				|
- | PROGRAM 1 OF 2 - RAW DATA PULL																		|
- |  HTTP://DMO.OPTUM.COM/PRODUCTS/UGAP.HTML													|
+ | STANDALONE ADHOC INVEGA VBC ANALYSIS FOR JANSSEN - CLAIMS		|
+ | PROGRAM 1 OF 2 - RAW DATA PULL									|
+ |  HTTP://DMO.OPTUM.COM/PRODUCTS/UGAP.HTML							|
  | AUTHOR: MICHAEL EDWARDS 2020-03-02 AMDG                          |
  \*----------------------------------------------------------------*/													
 /**/
